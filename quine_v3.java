@@ -2,12 +2,12 @@
 
 Description:
 
- This code emulates binary cell division
+ This code emulates binary cell division of an organism with 1 zygote, 1 body and 1 brain cell.
 
 Other improvements:
 
  * Rule to run : Each generated java file should be run only once per simulation
- * run_v2.sh
+ * run_v3.sh
  * Set simulation generation in script file
 
 */
