@@ -9,11 +9,12 @@ It integrates quines, genetic programming, fractals and cellular automata.
 
 ### Legend
 
-Each circle represent a cell of various types, and exists physically as a .java code file when the simulation is run.
-The various notations used for depicting how each version works is shows below.
 <img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/legend.png" width="350">
-The above structures, when *dark* denote the first generating block (which might be unique like in v5), while when *faded* depict the repetation block in the subsequent generations.
-*Solid grey* arrows denote asexual breeding, *red/blue* arrows denote sexual breeding by crossover, while *dashed grey* arrows denote inter-organism growth from zygote.
+
+* Each circle represent a cell of various types, and exists physically as a .java code file when the simulation is run.
+* The various notations used for depicting how each version works is shows below.
+* The above structures, when *dark* denote the first generating block (which might be unique like in v5), while when *faded* depict the repetation block in the subsequent generations.
+* *Solid grey* arrows denote asexual breeding, *red/blue* arrows denote sexual breeding by crossover, while *dashed grey* arrows denote inter-organism growth from zygote.
 
 ### V1 : Asexual Unicellular Budding
 
