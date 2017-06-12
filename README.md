@@ -3,33 +3,39 @@
 This personal project is an amalgamation of several of my favourite programming topics.
 It integrates quines, genetic programming, fractals and cellular automata.
 
+---
+
 ## Versions
 
 ### Legend
 
+Each circle represent a cell of various types, and exists physically as a .java code file when the simulation is run.
+The various notations used for depicting how each version works is shows below.
 <img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/legend.png" width="350">
+The above structures, when *dark* denote the first generating block (which might be unique like in v5), while when *faded* depict the repetation block in the subsequent generations.
+*Solid grey* arrows denote asexual breeding, *red/blue* arrows denote sexual breeding by crossover, while *dashed grey* arrows denote inter-organism growth from zygote.
 
-### Asexual Unicellular Budding
+### V1 : Asexual Unicellular Budding
 
 <img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v1.png" width="350">
 
-### Asexual Unicellular Binary Division
+### V2 : Asexual Unicellular Binary Division
 
 <img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v2.png" width="350">
 
-### Asexual Multicellular Budding
+### V3 : Asexual Multicellular Budding
 
 <img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v3.png" width="350">
 
-### Asexual Multicellular Binary Division
+### V4 : Asexual Multicellular Binary Division
 
 <img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v4.png" width="350">
 
-### Sexual Inbreeding
+### V5 : Sexual Inbreeding
 
 <img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v5.png" width="350">
 
-### Sexual Outbreeding (in progress)
+---
 
 ## FAQs
 
@@ -43,6 +49,8 @@ It integrates quines, genetic programming, fractals and cellular automata.
 * gamates are different from other cells. A female gamate gets input phenotype from a male gamate for crossover to zygotes of next generation
 * Organism ID is odd for female (and initial asexual zygote) and even for male, and subsequent pairing (can be thought of as pair by closeness)
 
+---
+
 ## TBDs
 
 * Add cell aging
@@ -53,6 +61,8 @@ It integrates quines, genetic programming, fractals and cellular automata.
 * Can the java file make the script file too as Ouroboros
 * Radiation harden
 * Mutate parts of core DNA (not only phenotype) to produce new organisms like mutating size array body and brain cell numbers to change the organism structure
+
+---
 
 ## Useful Links
 
@@ -66,11 +76,11 @@ It integrates quines, genetic programming, fractals and cellular automata.
 * http://www.ooblick.com/software/evolve/
 * https://www.nyx.net/~gthompso/quine.htm
 
+---
+
 ## License
 
 The MIT License applies to *all* resources in this repository.
-
----
 
 The MIT License (MIT)
 
@@ -81,3 +91,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
