@@ -19,9 +19,7 @@ It integrates quines, genetic programming, fractals and cellular automata.
 
 ### Asexual Unicellular Binary Division
 
-![Figure V2][v2]
-
-[v2]: v2.png
+<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v2.png" width="48">
 
 ### Asexual Multicellular Budding
 
