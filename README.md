@@ -19,25 +19,25 @@ It integrates quines, genetic programming, fractals and cellular automata.
 
 ### Asexual Unicellular Binary Division
 
-<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v2.png" width="48">
+<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v2.png" width="20">
 
 ### Asexual Multicellular Budding
 
 ![Figure V3][v3]
 
-[v3]: v3.png
+[v3]: (v3.png = 20x20)
 
 ### Asexual Multicellular Binary Division
 
 ![Figure V4][v4]
 
-[v4]: v4.png
+[v4]: (v4.png | width=20)
 
 ### Sexual Inbreeding
 
 ![Figure V5][v5]
 
-[v5]: v5.png
+[v5]: (v5.png){:height="24px" width="48px"}
 
 ### Sexual Outbreeding (in progress)
 
