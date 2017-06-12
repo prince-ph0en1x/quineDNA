@@ -5,18 +5,37 @@ It integrates quines, genetic programming, fractals and cellular automata.
 
 ## Versions
 
-# Asexual Unicellular Budding
+### Legend
 
+![Legend][legend]
+[legend]: legend.png
+
+### Asexual Unicellular Budding
 
 ![Figure V1][v1]
-
 [v1]: v1.png
 
-2. Asexual Unicellular Binary Division
-3. Asexual Multicellular Budding
-4. Asexual Multicellular Binary Division
-5. Sexual Inbreeding
-6. Sexual Outbreeding (in progress)
+### Asexual Unicellular Binary Division
+
+![Figure V2][v2]
+[v2]: v2.png
+
+### Asexual Multicellular Budding
+
+![Figure V3][v3]
+[v3]: v3.png
+
+### Asexual Multicellular Binary Division
+
+![Figure V4][v4]
+[v4]: v4.png
+
+### Sexual Inbreeding
+
+![Figure V5][v5]
+[v5]: v5.png
+
+### Sexual Outbreeding (in progress)
 
 ## FAQs
 
