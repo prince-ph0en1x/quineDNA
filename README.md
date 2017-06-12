@@ -1,15 +1,7 @@
 # quineDNA
 
-
-## Links
-
-* http://nautil.us/issue/48/chaos/nature-the-it-wizard-rp
-* https://www.quinapalus.com/wires11.html
-* https://github.com/coolwanglu/quine-chameleon
-* https://github.com/mame/quine-relay
-* https://github.com/prince-ph0en1x/Quines
-* https://en.wikipedia.org/wiki/Quine_(computing)
-* https://stackoverflow.com/questions/105725/how-to-write-a-self-reproducing-code-prints-the-source-on-exec
+This personal project is an amalgamation of several of my favourite programming topics.
+It integrates quines, genetic programming, fractals and cellular automata.
 
 ## Versions
 
@@ -18,26 +10,42 @@
 3. Asexual Multicellular Budding
 4. Asexual Multicellular Binary Division
 5. Sexual Inbreeding
+6. Sexual Outbreeding (in progress)
 
 ## FAQs
 
+* All quines are non-cheating quines (they don't read their source code)
+* DNA of every cell is same in all generation if no mutation (no information is lost/modified)
 * 1 quine program represent 1 cell's properties
 * G - Cell's Generation Number
 * simEndGen - Number of generations to simulate
 * T - Type ID, cell belongs to what type of Tissue (0- zygote, 1- brain, 2- body, 3-gamate)
 * size array determines the structure of the organism, how many cells of what type and how they evolve from the zygote
 * gamates are different from other cells. A female gamate gets input phenotype from a male gamate for crossover to zygotes of next generation
+* Organism ID is odd for female (and initial asexual zygote) and even for male, and subsequent pairing (can be thought of as pair by closeness)
 
 ## TBDs
 
 * Add cell aging
-* Add gamate to cell type
-* Add phenotype string
-* Add crossover
+* Add meaningfull phenotype string
 * Add mutation
-* Add even odd pairing
 * Add random pairing
 * Add random number signifying reproductive probability per organism based on favourable environment
+* Can the java file make the script file too as Ouroboros
+* Radiation harden
+* Mutate parts of core DNA (not only phenotype) to produce new organisms like mutating size array body and brain cell numbers to change the organism structure
+
+## Useful Links
+
+* http://nautil.us/issue/48/chaos/nature-the-it-wizard-rp
+* https://www.quinapalus.com/wires11.html
+* https://github.com/coolwanglu/quine-chameleon
+* https://github.com/mame/quine-relay
+* https://github.com/prince-ph0en1x/Quines
+* https://en.wikipedia.org/wiki/Quine_(computing)
+* https://stackoverflow.com/questions/105725/how-to-write-a-self-reproducing-code-prints-the-source-on-exec
+* http://www.ooblick.com/software/evolve/
+* https://www.nyx.net/~gthompso/quine.htm
 
 ## License
 
