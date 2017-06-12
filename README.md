@@ -7,27 +7,27 @@ It integrates quines, genetic programming, fractals and cellular automata.
 
 ### Legend
 
-<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/legend.png" width="100">
+<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/legend.png" width="350">
 
 ### Asexual Unicellular Budding
 
-<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v1.png" width="320">
+<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v1.png" width="350">
 
 ### Asexual Unicellular Binary Division
 
-<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v2.png" width="400">
+<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v2.png" width="350">
 
 ### Asexual Multicellular Budding
 
-<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v3.png" width="150">
+<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v3.png" width="350">
 
 ### Asexual Multicellular Binary Division
 
-<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v4.png" width="200">
+<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v4.png" width="350">
 
 ### Sexual Inbreeding
 
-<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v5.png" width="250">
+<img src="https://github.com/prince-ph0en1x/quineDNA/blob/master/v5.png" width="350">
 
 ### Sexual Outbreeding (in progress)
 
