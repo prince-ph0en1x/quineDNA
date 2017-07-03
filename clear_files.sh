@@ -3,4 +3,3 @@
    do
       rm "$file"
    done
-   
